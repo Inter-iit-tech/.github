@@ -36,8 +36,34 @@ support navigation on map by prompting the best route between any two points on 
 <h2 id="solution"> :brain: Proposed Solution </h2>
 
 <p align="center"> 
-<img src="/profile/one-pager.png" alt="One Page Report of Proposed Solution" height="1200px" width="800px">
+<img src="/profile/images/one-pager.png" alt="One Page Report of Proposed Solution" height="1200px" width="800px">
 </p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<h2 id="solution"> :iphone: App Screens </h2>
+
+a) `Admin` Application Screens
+
+<table style="padding:15px">
+  <tr>
+    <td><img src="/profile/images/list-riders.jpeg"  alt="riders-list" width = "250px" height = "500px" ><p align="center"> Riders List </p></td>
+    <td><img src="/profile/images/admin-stats.jpeg"  alt="riders-list" width = "250px" height = "500px" ><p align="center"> Admin Statistics </p></td>
+    <td><img src="/profile/images/order-clustering.jpeg"  alt="riders-list" width = "250px" height = "500px" ><p align="center"> Order Clustering </p></td>
+    <td><img src="/profile/images/otp-verification.jpeg"  alt="riders-list" width = "250px" height = "500px" ><p align="center"> OTP Verification </p></td>
+  </tr>
+</table>
+
+b) Rider Application Screens
+
+<table style="padding:15px">
+  <tr>
+    <td><img src="/profile/images/rider-order-delivery.jpeg"  alt="riders-list" width = "250px" height = "500px" ><p align="center"> Order of Deliveries for Rider </p></td>
+    <td><img src="/profile/images/route-allocation.jpeg"  alt="riders-list" width = "250px" height = "500px" ><p align="center"> Route for navigation using Map </p></td>
+   <td><img src="/profile/images/rider-simulation.gif"  alt="riders-list" width = "250px" height = "500px" ><p align="center"> Rider Simulation (4 hours) For Delivery </p></td>
+  </tr>
+</table>
+
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
