@@ -29,14 +29,14 @@ rider/tour, reroute their routes to cater pickups along with their on going tour
 3. A basic platform ( `web` / `app` ) to fit in all these objectives together where points can be added or removed dynamically. The app is expected to
 support navigation on map by prompting the best route between any two points on the tour for riders. The app needs to be integrated with Challenge-1 for rider-bag problem.
 
-:point_right: Click <a href="https://drive.google.com/file/d/1VVM5SiA0mxap4M-FpOdtfUEJxQu6s27D/view?usp=share_link">here</a> to get a detailed problem statement. 
+:point_right: Click <a href="https://drive.google.com/file/d/1VVM5SiA0mxap4M-FpOdtfUEJxQu6s27D/view?usp=share_link">here</a> to get the detailed problem statement. 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2 id="solution"> :brain: Proposed Solution </h2>
 
 <p align="center"> 
-<img src="one-pager.png" alt="One Page Report of Proposed Solution" height="1200px" width="800px">
+<img src="./one-pager.png" alt="One Page Report of Proposed Solution" height="1200px" width="800px">
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
