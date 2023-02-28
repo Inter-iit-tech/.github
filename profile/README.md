@@ -81,9 +81,20 @@ Check out each repository's `README.md` to know about the specific usages.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-Contributors ✨
+<h2 id="usage"> ✨ Contributors </h2>
 
-Thanks go to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+- **[Harsh Singh Jadon](https://www.linkedin.com/in/harsh-singh-55ab4519a/)**
+- **[Sushant Kumar](https://www.linkedin.com/in/sushantiit/)**
+- **[Shrirang Deshmukh](https://www.linkedin.com/in/shrirang-deshmukh/)**
+- **[Sarthak Gupta](https://www.linkedin.com/in/sg1729/)**
+- **[Arpit Kesharwani](https://www.linkedin.com/in/arpit82/)**
+- **[Jagdish Deshmukh](https://www.linkedin.com/in/jagdish-deshmukh-iit/)**
+- **[P Kartikeya](https://www.linkedin.com/in/kartikeya-pochampalli-29a0a319b/)**
+- **[Sai Krishna Jupally](https://www.linkedin.com/in/sai-krishna-jupally-b7050177/)**
+- **[Rishvic Pushpakaran]()**
+- **[Akshat Gupta]()**
+- **[Pranay Borghoin]()**
+
 
 
 
