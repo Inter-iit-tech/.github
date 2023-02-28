@@ -83,8 +83,8 @@ Check out each repository's `README.md` to know about the specific usages.
 
 <h2 id="usage"> ✨ Contributors </h2>
 
-- **[Harsh Singh Jadon](https://www.linkedin.com/in/harsh-singh-55ab4519a/)**
-- **[Sushant Kumar](https://www.linkedin.com/in/sushantiit/)**
+- **[Harsh Singh Jadon](https://www.linkedin.com/in/harsh-singh-55ab4519a/) - Team Lead**
+- **[Sushant Kumar](https://www.linkedin.com/in/sushantiit/) - Team Vice Lead**
 - **[Shrirang Deshmukh](https://www.linkedin.com/in/shrirang-deshmukh/)**
 - **[Sarthak Gupta](https://www.linkedin.com/in/sg1729/)**
 - **[Arpit Kesharwani](https://www.linkedin.com/in/arpit82/)**
