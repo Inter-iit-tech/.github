@@ -36,7 +36,7 @@ support navigation on map by prompting the best route between any two points on 
 <h2 id="solution"> :brain: Proposed Solution </h2>
 
 <p align="center"> 
-<img src="./one-pager.png" alt="One Page Report of Proposed Solution" height="1200px" width="800px">
+<img src="/profile/one-pager.png" alt="One Page Report of Proposed Solution" height="1200px" width="800px">
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
