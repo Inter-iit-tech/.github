@@ -86,7 +86,6 @@ Check out each repository's `README.md` to know about the specific usages.
 - **[Harsh Singh Jadon](https://www.linkedin.com/in/harsh-singh-55ab4519a/) - Team Lead**
 - **[Sushant Kumar](https://www.linkedin.com/in/sushantiit/) - Team Vice Lead**
 - **[Shrirang Deshmukh](https://www.linkedin.com/in/shrirang-deshmukh/)**
-- **[Sarthak Gupta](https://www.linkedin.com/in/sg1729/)**
 - **[Arpit Kesharwani](https://www.linkedin.com/in/arpit82/)**
 - **[Jagdish Deshmukh](https://www.linkedin.com/in/jagdish-deshmukh-iit/)**
 - **[P Kartikeya](https://www.linkedin.com/in/kartikeya-pochampalli-29a0a319b/)**
