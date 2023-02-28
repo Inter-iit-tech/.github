@@ -1,6 +1,11 @@
 <h1 align = "center"> Route Planning for Optimised On-Time Delivery </h1>
-<h3 align="center"> Inter IIT Tech Meet 11.0 (IIT Kanpur) </h3>
-<h5 align="center">IIT Bhubaneswar's Submission</a> (11 February 2023) </h5>
+
+<p align="center"> 
+<img src="/profile/images/tech-meet-logo.jpeg" alt="One Page Report of Proposed Solution" height="300px" width="900px">
+</p>
+
+
+**This repository serves as the official submission of IIT Bhubaneswar for the Grow Simplee Problem Statement, which earned them a Silver Medal🥈 among 23 competing IITs.**
 
 <h2 id="content"> 📝 Contents </h2>
 
@@ -33,10 +38,10 @@ support navigation on map by prompting the best route between any two points on 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h2 id="solution"> :brain: Proposed Solution </h2>
+<h2 id="solution"> :brain: Solution and Analysis </h2>
 
 <p align="center"> 
-<img src="/profile/images/one-pager.png" alt="One Page Report of Proposed Solution" height="1200px" width="800px">
+<img src="/profile/images/one-pager.png" alt="One Page Report of Proposed Solution" height="1000px" width="700px">
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -45,22 +50,25 @@ support navigation on map by prompting the best route between any two points on 
 
 a) `Admin` Application Screens
 
-<table style="padding:15px">
+<table style="padding:10px">
   <tr>
-    <td><img src="/profile/images/list-riders.jpeg"  alt="riders-list" width = "250px" height = "500px" ><p align="center"> Riders List </p></td>
-    <td><img src="/profile/images/admin-stats.jpeg"  alt="riders-list" width = "250px" height = "500px" ><p align="center"> Admin Statistics </p></td>
-    <td><img src="/profile/images/order-clustering.jpeg"  alt="riders-list" width = "250px" height = "500px" ><p align="center"> Order Clustering </p></td>
-    <td><img src="/profile/images/otp-verification.jpeg"  alt="riders-list" width = "250px" height = "500px" ><p align="center"> OTP Verification </p></td>
+    <td><img src="/profile/images/list-riders.jpeg"  alt="riders-list" width = "270px" height = "600px" ><p align="center"> Riders List </p></td>
+    <td><img src="/profile/images/admin-stats.jpeg"  alt="riders-list" width = "270px" height = "600px" ><p align="center"> Admin Statistics </p></td>
+    <td><img src="/profile/images/order-clustering.jpeg"  alt="riders-list" width = "270px" height = "600px" ><p align="center"> Order Clustering </p></td>
+  </tr>
+   <tr>
+ <td><img src="/profile/images/otp-verification.jpeg"  alt="riders-list" width = "270px" height = "600px" ><p align="center"> OTP Verification </p></td>
+    <td><img src="/profile/images/order-list.jpeg"  alt="riders-list" width = "270px" height = "600px" ><p align="center"> Order List for a rider </p></td>
   </tr>
 </table>
 
-b) Rider Application Screens
+b) `Rider` Application Screens
 
-<table style="padding:15px">
+<table style="padding:10px">
   <tr>
-    <td><img src="/profile/images/rider-order-delivery.jpeg"  alt="riders-list" width = "250px" height = "500px" ><p align="center"> Order of Deliveries for Rider </p></td>
-    <td><img src="/profile/images/route-allocation.jpeg"  alt="riders-list" width = "250px" height = "500px" ><p align="center"> Route for navigation using Map </p></td>
-   <td><img src="/profile/images/rider-simulation.gif"  alt="riders-list" width = "250px" height = "500px" ><p align="center"> Rider Simulation (4 hours) For Delivery </p></td>
+    <td><img src="/profile/images/rider-order-delivery.jpeg"  alt="riders-list" width = "270px" height = "600px" ><p align="center"> Order of Deliveries for Rider </p></td>
+    <td><img src="/profile/images/route-allocation.jpeg"  alt="riders-list" width = "270px" height = "600px" ><p align="center"> Route for navigation using Map </p></td>
+   <td><img src="/profile/images/rider-simulation.gif"  alt="riders-list" width = "270px" height = "600px" ><p align="center"> Rider Simulation (4 hours) For Delivery </p></td>
   </tr>
 </table>
 
@@ -72,3 +80,11 @@ b) Rider Application Screens
 Check out each repository's `README.md` to know about the specific usages. 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+Contributors ✨
+
+Thanks go to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+
+
+
