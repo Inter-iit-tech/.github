@@ -93,7 +93,7 @@ Check out each repository's `README.md` to know about the specific usages.
 - **[Rishvic Pushpakaran]()**
 - **[Akshat Gupta](https://www.linkedin.com/in/akshat-gupta-62b13b198/)**
 - **[Sarthak Gupta](https://www.linkedin.com/in/sg1729/)**
-- **[Pranay Borghoin]()**
+- **[Pranay Borghoin](https://www.linkedin.com/in/pranay-borgohain-45a290211/)**
 
 
 
